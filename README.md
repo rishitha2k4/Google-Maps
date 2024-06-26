@@ -1,2 +1,2 @@
 # Google-Maps
-This project integrates Google Maps with weather data from OpenWeatherMap API to display weather information for specified locations.
+This project integrates Google Maps with weather data to display weather information for specified locations according to user's requirements.
